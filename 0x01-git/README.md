@@ -1,3 +1,1 @@
-The power of believing that you can improve.
-The power of yet
-I love a challenge!
+I need to be focus and committed in this journey to become a software engineer.
