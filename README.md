@@ -1,1 +1,1 @@
-This is my first readme about ALX pre course, a path way to become a software enginner
+This is my first readme about ALX pre-course, a pathway to becoming a software engineer
